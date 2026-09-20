@@ -1,0 +1,14 @@
+numpy==1.26.4
+opencv-python==4.9.0.80
+torch
+torchvision
+pillow
+matplotlib
+tqdm
+google-genai
+pydantic
+python-dotenv
+groq
+fastapi
+uvicorn
+python-multipart
